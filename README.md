@@ -1,1 +1,1 @@
-"# JavaScript-Journey-" 
+"# JavaScript-Journey" 
